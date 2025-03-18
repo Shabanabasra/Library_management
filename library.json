@@ -1,19 +1,19 @@
 [
   {
-    "title" : "python crash course",
+    "title": "Python Crash Course",
     "author": "Eric Matthes",
-    "publication_year":2019,
-    "genre": "programing",
+    "publication_year": 2019,
+    "genre": "programming",
     "read_status": false,
     "added_data": "2025-03-11 11:36:40"
- },
+  },
   {
-     "title" : "Automate the boring stuff with python",
+    "title": "Automate the Boring Stuff with Python",
     "author": "Fiza Sagar",
-    "publication_year":2019,
-    "genre": "programing",
-    "read_status": true",
-    "added_data": "2025-03-11 11:45:80"
+    "publication_year": 2019,
+    "genre": "programming",
+    "read_status": true,
+    "added_data": "2025-03-11 11:45:00"
   },
   { 
     "title": "Clean Code",
@@ -32,4 +32,3 @@
     "added_data": "2025-03-14 12:30:20"
   }
 ]
-    
